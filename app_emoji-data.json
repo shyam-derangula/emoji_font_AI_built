@@ -1,0 +1,66 @@
+{
+  "Smileys & Emotion": [
+    {"emoji": "😀", "name": "Grinning Face"},
+    {"emoji": "😃", "name": "Grinning Face with Big Eyes"},
+    {"emoji": "😄", "name": "Grinning Face with Smiling Eyes"},
+    {"emoji": "😁", "name": "Beaming Face with Smiling Eyes"},
+    {"emoji": "😆", "name": "Grinning Squinting Face"}
+  ],
+  "People & Body": [
+    {"emoji": "👋", "name": "Waving Hand"},
+    {"emoji": "🤚", "name": "Raised Back of Hand"},
+    {"emoji": "🖐️", "name": "Hand with Fingers Splayed"},
+    {"emoji": "✋", "name": "Raised Hand"},
+    {"emoji": "🖖", "name": "Vulcan Salute"}
+  ],
+  "Animals & Nature": [
+    {"emoji": "🐶", "name": "Dog Face"},
+    {"emoji": "🐱", "name": "Cat Face"},
+    {"emoji": "🐭", "name": "Mouse Face"},
+    {"emoji": "🐹", "name": "Hamster Face"},
+    {"emoji": "🐰", "name": "Rabbit Face"}
+  ],
+  "Food & Drink": [
+    {"emoji": "🍎", "name": "Red Apple"},
+    {"emoji": "🍐", "name": "Pear"},
+    {"emoji": "🍊", "name": "Tangerine"},
+    {"emoji": "🍋", "name": "Lemon"},
+    {"emoji": "🍌", "name": "Banana"}
+  ],
+  "Travel & Places": [
+    {"emoji": "🚗", "name": "Car"},
+    {"emoji": "🚕", "name": "Taxi"},
+    {"emoji": "🚙", "name": "Sport Utility Vehicle"},
+    {"emoji": "🚌", "name": "Bus"},
+    {"emoji": "🚎", "name": "Trolleybus"}
+  ],
+  "Activities": [
+    {"emoji": "⚽", "name": "Soccer Ball"},
+    {"emoji": "🏀", "name": "Basketball"},
+    {"emoji": "🏈", "name": "American Football"},
+    {"emoji": "⚾", "name": "Baseball"},
+    {"emoji": "🥎", "name": "Softball"}
+  ],
+  "Objects": [
+    {"emoji": "⌚", "name": "Watch"},
+    {"emoji": "📱", "name": "Mobile Phone"},
+    {"emoji": "💻", "name": "Laptop"},
+    {"emoji": "⌨️", "name": "Keyboard"},
+    {"emoji": "🖥️", "name": "Desktop Computer"}
+  ],
+  "Symbols": [
+    {"emoji": "❤️", "name": "Red Heart"},
+    {"emoji": "💔", "name": "Broken Heart"},
+    {"emoji": "❣️", "name": "Heart Exclamation"},
+    {"emoji": "💕", "name": "Two Hearts"},
+    {"emoji": "💞", "name": "Revolving Hearts"}
+  ],
+  "Flags": [
+    {"emoji": "🏁", "name": "Chequered Flag"},
+    {"emoji": "🚩", "name": "Triangular Flag"},
+    {"emoji": "🎌", "name": "Crossed Flags"},
+    {"emoji": "🏴", "name": "Black Flag"},
+    {"emoji": "🏳️", "name": "White Flag"}
+  ]
+}
+
